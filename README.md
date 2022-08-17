@@ -1,21 +1,7 @@
-# nestjs-starter
-Boilerplate for creating Nest.js project.
+# freecash-chal
+Freecash challenge
 
-[![Build Status](https://github.com/AlexanderMac/nestjs-starter/workflows/CI/badge.svg)](https://github.com/AlexanderMac/nestjs-starter/actions?query=workflow%3ACI)
-
-### Features
-- Configuration
-- Authentication
-- Request Logging
-- Validation
-- External data source (https://api.open-meteo.com)
-
-### Set
-- **Framework**: Nest.js
-- **Platform**: Express
-- **Language**: TypeScript
-- **Tools**: ESLint, Prettier
-- **Package manager**: pnpm
+[![Build Status](https://github.com/AlexanderMac/freecash-chal/workflows/CI/badge.svg)](https://github.com/AlexanderMac/freecash-chal/actions?query=workflow%3ACI)
 
 ### Commands
 
