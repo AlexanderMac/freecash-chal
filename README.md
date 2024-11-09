@@ -12,7 +12,7 @@
 - [License](#license)
 
 # Usage
-```bash
+```sh
 # Install
 $ pnpm i
 
